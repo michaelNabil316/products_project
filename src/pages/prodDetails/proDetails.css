@@ -1,0 +1,12 @@
+.cardSty{
+    width: 300px;
+    height: 300px;
+}
+.titlestyle{
+    font-weight: bold;
+    color: rgb(60, 60, 146);
+}
+.pricestyle{
+    font-weight: bold;
+    color: red;
+}

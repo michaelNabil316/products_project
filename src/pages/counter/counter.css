@@ -1,0 +1,12 @@
+.noDiv{
+    margin: 50px;
+}
+.btnDiv{
+    display: block;
+    margin: auto;
+}
+.btnStyl{
+    border-radius: 50%;
+    font-size: 300%;
+    text-align: center;
+}

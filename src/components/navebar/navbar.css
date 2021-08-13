@@ -1,0 +1,12 @@
+.active{
+    color:white;
+    font-weight: bold;
+}
+.navstyle{
+  padding: 10px;
+  
+}
+.itemsStyle{
+  text-decoration: unset;
+  font-weight: normal;
+}

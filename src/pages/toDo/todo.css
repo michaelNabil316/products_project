@@ -1,0 +1,18 @@
+.mainDivStyle{
+    display: flex;
+    justify-content: center;
+}
+.cardstyl{
+    width: 60%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+.inputStylr{
+    width: 60%;
+}
+.tableSty{
+    color: white;
+}
+.btnstyle{
+    margin-left: 6px;
+}

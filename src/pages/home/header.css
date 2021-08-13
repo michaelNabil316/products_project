@@ -1,0 +1,22 @@
+.imgFull{
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.noRadius{
+    border-radius: 0px;
+    height: 42vw;
+}
+.txtColor{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    color: white;
+    margin-left: 48%;
+}
+.namestyle{
+    text-align: left;
+    float: left;
+}
+.btnstyl{
+    margin-left: 20%;
+}
